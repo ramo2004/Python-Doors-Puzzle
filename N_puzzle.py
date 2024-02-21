@@ -1,5 +1,4 @@
 
-print("Tibian Elsheikh, CS3343 Project 1\n")
 
 def n_doors_puzzle(N):
     doors = [False] * N  
